@@ -1,7 +1,12 @@
 export enum Color {
-  White = "#FFF",
-  LightGray = "#EAF2F2",
-  DarkGray = "#756C6C",
-  Blue = "#2ED2C9",
-  Black = "#000",
+  White = "#FFFFFF",
+  DarkWhite = "rgba(255, 255, 255, 0.6)",
+  Black = "#000000",
+  LightGray = "#EEEEEE",
+  Gray = "#CCD5FF",
+  DarkGray = "#999999",
+  Aqua = "#23C9FF",
+  Blue = "#7CC6FE",
+  Violet = "#E7BBE3",
+  Red = "#FF0000",
 }
